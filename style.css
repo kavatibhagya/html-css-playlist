@@ -45,5 +45,17 @@
   margin: 0;
   font-size: 4em;
  color: white;
- font-family: Arial, Helvetica, sans-serif
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: normal;
+ }
+ .paragraph{
+   margin: 1em;
+   max-width: 900px;
+   padding: 0 1.5em;
+
+ }
+ .header-sec{
+   font-style: oblique;
+   font-weight: normal;
+   color: #333;
  }
