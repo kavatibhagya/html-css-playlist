@@ -1,0 +1,44 @@
+ * {
+   box-sizing: border-box;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: #777;
+ }
+  html,body{
+   margin: 0;
+   padding: 0;
+
+ }
+ .nav ul{
+   margin: 0;
+
+ }
+ .nav li{
+   display: inline;
+ }
+ .nav a{
+   display: inline-block;
+   padding: 1em;
+   color: white;
+   text-decoration: none;
+ }
+ .main-nav{
+   text-align: center;
+   font-size: 1.1em;
+   font-weight: lighter;
+   border-bottom: 1px solid grey;
+ }
+ .main-nav li{
+   padding: 0 5%;
+ }
+ .nav a:hover{
+   background-color: grey;
+ }
+.main-header{
+  background-image: url(backgroung.webp);
+  background-color:  rgba(0,0,0,60%);
+  background-size: cover; 
+  background-blend-mode: multiply;
+  padding-bottom: 40px;
+
+
+}
