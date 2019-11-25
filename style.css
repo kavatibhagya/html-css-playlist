@@ -50,7 +50,7 @@
  }
  .paragraph{
    margin: 1em;
-   max-width: 900px;
+   max-width: 1000px;
    padding: 0 1.5em;
 
  }
@@ -60,4 +60,33 @@
    color: #333;
    text-align: center;
    font-size: 2.5em;
+ }
+ .sid-image{
+   float: left;
+   height: 200px;
+   width: 200px;
+   margin: 15px;
+   border-radius: 50px;
+ }
+ .main-footer{
+   background-color:lightskyblue;
+   color:white;
+   padding: .25em,0;
+
+ }
+ .footername{
+   font-family:Arial, Helvetica, sans-serif;
+   font-weight: normal;
+   color: white;
+   font-size: 2em;
+ }
+ 
+ .someclass{
+   display:flex;
+   text-align: center;
+ }
+ .someclass ul{
+   flex-grow: 1;
+   text-align: end;
+
  }
