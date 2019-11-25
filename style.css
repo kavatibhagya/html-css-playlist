@@ -69,24 +69,45 @@
    border-radius: 50px;
  }
  .main-footer{
-   background-color:lightskyblue;
+   background-color:rgb(210, 216, 219);
    color:white;
-   padding: .25em,0;
+   padding: 1em,0;
 
  }
  .footername{
    font-family:Arial, Helvetica, sans-serif;
    font-weight: normal;
-   color: white;
+   color: rgb(14, 12, 12);
    font-size: 2em;
  }
- 
  .someclass{
-   display:flex;
-   text-align: center;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: lighter;
+  border-bottom: 1px solid grey;
  }
- .someclass ul{
-   flex-grow: 1;
-   text-align: end;
+ .icons li{
+   display: inline;
+   padding: 0,5%;
+
 
  }
+ .icons a{
+  display: inline-block;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+ .icon a:hover{
+  background-color: rgb(192, 59, 59);
+
+ }
+ .btn{
+   text-align: center;
+   vertical-align: middle;
+   padding: 0.7em;
+   cursor: pointer;
+ }
+
+ 
