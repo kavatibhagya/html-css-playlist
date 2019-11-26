@@ -131,4 +131,27 @@
    width:70px;
    
  }
- 
+ .play-row{
+   border-bottom:1px solid black;
+   padding-bottom: 1em;
+   margin-bottom: 1em;
+ }
+ .play-row:last-child{
+   border-bottom: 0em;
+ }
+ .alb-item{
+   display: inline-block;
+   padding-right: 1em;
+ }
+ .alb1{
+   width: 100px;
+
+ }.alb2{
+   width: 250px;
+ }
+ .alb3{
+   width: 120px;
+ }
+ .alb4{
+   width: 120px;
+ }
