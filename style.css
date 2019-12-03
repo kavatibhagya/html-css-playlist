@@ -189,3 +189,34 @@
    flex-wrap: wrap;
    justify-content: space-around;
  }
+ .cart-header{
+   font-weight:bold;
+   font-size: 1.5em;
+   color:#333;
+
+ }
+ .cart-column{
+   border-bottom:1px solid black;
+   margin-right: 1em;
+   padding-bottom:5px;
+   margin-top:5px;
+   display: flex;
+   align-items: center;
+  
+
+ }
+ .cart-row{
+   display:flex;
+ }
+ .cart-song{
+   width: 30%;
+
+ }
+ .cart-price{
+   width: 20%;
+
+ }
+ .cart-quantity{
+   width: 30%; 
+
+ }
