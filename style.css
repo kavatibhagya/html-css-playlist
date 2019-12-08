@@ -214,9 +214,24 @@
  }
  .cart-price{
    width: 20%;
+   font-size:1.2em;
+   color:#333;
+
 
  }
  .cart-quantity{
    width: 30%; 
+
+ }
+ .cart-item-title{
+   color: #333;
+   font-size: 1.2em;
+   margin-left: 0.5em;
+
+ }
+ .cart-item-image{
+   height:70px;
+   width:70px;
+   border-radius:10px;
 
  }
