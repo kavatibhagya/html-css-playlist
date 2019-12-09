@@ -261,3 +261,29 @@
      margin-right:25px;
 
    }
+   .cart-total{
+     text-align:center;
+     margin-top:30px;
+    
+
+   }
+   .cart-total-title{
+     color:#333;
+     margin-right: 20px;
+     font-weight:bold;
+     font-size: 1.2em;
+
+   }
+   .cart-total-price{
+     color:#333;
+
+   }
+   .btn-purchase{
+     display:block;
+     margin: 40px auto 80px auto;
+     font-size: 1.2em;
+   }
+   .btn-purchase:hover{
+    background-color:lightgrey;
+   }
+   
